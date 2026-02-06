@@ -1,6 +1,7 @@
 {
   "id": 2,
-  "title": "Welcome from power!",
-  "message": "Ye Ak Free setling App hai app apna hisab kitam isme befikar rakh skte ho bina kisi fikar ke .",
-  "show": true
+  "title": "Welcome!",
+  "message": "Ye popup message hai.",
+  "show": true,
+  "ticker": "⚠ Happy Diwali! Special Offer: Aaj sabhi hisab clear karne par 10% discount milega! 🚀 Power Ledger Team."
 }
